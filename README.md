@@ -13,6 +13,11 @@ Feature Importance
 Cross validation
 ![image](https://user-images.githubusercontent.com/46890041/176069789-253cfe6f-b465-46b5-a3bc-a6dc56a41057.png)
 
+# Not Suitable for Linear Regression
+![image](https://user-images.githubusercontent.com/46890041/176070026-bc18e3d9-8339-4d99-a525-11abfd9322cf.png)
 
+
+# Final Model Performance
+![image](https://user-images.githubusercontent.com/46890041/176069925-c7222318-388b-4ed6-8aa0-1050ab507df0.png)
 
 
