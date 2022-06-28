@@ -7,6 +7,9 @@
 1. Currently, Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the 
 waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
+# Attributes
+![image](https://user-images.githubusercontent.com/46890041/176092665-438268ef-f46c-4b22-9716-521b49bbcdc4.png)
+
 
 # Feature Engineering 
 ## One hot encoding
