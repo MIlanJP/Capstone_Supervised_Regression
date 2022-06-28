@@ -8,7 +8,8 @@
 waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
 # Attributes
-![image](https://user-images.githubusercontent.com/46890041/176092665-438268ef-f46c-4b22-9716-521b49bbcdc4.png)
+![image](https://user-images.githubusercontent.com/46890041/176094607-66765036-142a-4459-9e31-97062be9b1e1.png)
+
 
 
 # Feature Engineering 
