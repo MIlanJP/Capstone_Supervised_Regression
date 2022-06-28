@@ -34,6 +34,7 @@ waiting time. Eventually, providing the city with a stable supply of rental bike
 
 
 # Final Model Performance
-![image](https://user-images.githubusercontent.com/46890041/176069925-c7222318-388b-4ed6-8aa0-1050ab507df0.png)
+![image](https://user-images.githubusercontent.com/46890041/176071581-fe64715d-25f7-4bd2-8760-a8ee264982ad.png)
+
 
 
